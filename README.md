@@ -70,7 +70,6 @@ Both apis are in trouble due to the number of requests, if you know any other to
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/indratdev/indratdev.svg" />
 </p>
 
-  [![HitCount](https://hits.dwyl.com/indratdev/indratdev.svg?style=flat-square&show=unique)](http://hits.dwyl.com/indratdev/indratdev)
 
 <!-- Your support, if you have it 
 ## Support me
