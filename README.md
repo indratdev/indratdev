@@ -16,7 +16,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about My Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />	
+<img width="55%" align="right" alt="Github" src="https://github.com/indratdev/indratdev/blob/master/resources/roman-synkevych-vXInUOv1n84-unsplash.jpg" />	
 
 - 👨🏽‍💻 I’m currently working on Ciputra Development Tbk
 - 🌱 I’m currently learning Dart and Flutter;
