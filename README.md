@@ -18,6 +18,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="45%" align="right" alt="Github" src="https://github.com/indratdev/indratdev/blob/master/resources/alison-wang-mou0S7ViElQ-unsplash.jpg" />	
 &nbsp;
+ <br />
 
 - 👨🏽‍💻 I’m currently working on Ciputra Development Tbk
 - 🌱 I’m currently learning Dart and Flutter;
