@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Indrat Saputra, a Mobile Developer 🧑‍💻 from Indonesia.
+## Hi, I'm Indrat Saputra, a Mobile Developer 🧑‍💻 :indonesia:
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -16,7 +16,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about My Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />			// CHANGE THIS!
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />	
 
 - 👨🏽‍💻 I’m currently working on Ciputra Development Tbk
 - 🌱 I’m currently learning Dart and Flutter;
@@ -62,16 +62,20 @@ site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
 
+<!--
  [![HitCount](https://hits.dwyl.com/indratdev/indratdev.svg?style=flat)](http://hits.dwyl.com/indratdev/indratdev)
+ -->
 
 <p align="center">
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/onimur/onimur.svg" />
+  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/indratdev/indratdev.svg" />
 </p>
 
-## Support me
 <!-- Your support, if you have it 
+## Support me
+
 I created these images, feel free to use them.
 -->
+<!-- comment this
 <p align="center">
   <a href="https://www.patreon.com/onimur" target="_blank">
     <img width="18%" alt="Check my Patreon" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-patreon.png"/>
@@ -83,10 +87,12 @@ I created these images, feel free to use them.
       <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
   </a>
 </p>
+--->
 
 ---
 
 <!-- Its main projects -->
+<!-- comment this
 <p align="center">
   <a href="https://github.com/onimur/handle-path-oz">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=handle-path-oz" />
@@ -95,5 +101,6 @@ I created these images, feel free to use them.
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=circleci-github-changelog-generator" />
   </a>
 </p>
+-->
 
 <!-- This readme was created by Murillo Comino - https://github.com/onimur -->
