@@ -16,7 +16,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about My Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" height="85%" align="right" alt="Github" src="https://github.com/indratdev/indratdev/blob/master/resources/header_11.png" />	
+<img width="55%" height="100%" align="right" alt="Github" src="https://github.com/indratdev/indratdev/blob/master/resources/header_11.png" />	
 &nbsp;
  <br />
 
