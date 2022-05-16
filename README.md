@@ -36,6 +36,11 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <a href="">
     <img width="55%" align="right" alt="Indratdev's github stats" src="https://github-readme-stats.vercel.app/api?username=indratdev&show_icons=true&hide_border=true" />
   </a>
+ <a href="">
+  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
+  <img width="55%" align="right" alt="Indratdev's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+          </a>
 
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
