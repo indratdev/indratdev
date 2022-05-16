@@ -57,27 +57,24 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-  
-  [![Indratdev GitHub stats](https://github-readme-stats.vercel.app/api?username=indratdev)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indratdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<!--   <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code> -->
-</p>
 
 <!-- Your hits or visitors
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
 
-<!--
- [![HitCount](https://hits.dwyl.com/indratdev/indratdev.svg?style=flat)](http://hits.dwyl.com/indratdev/indratdev)
- -->
 
 <p align="center">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/indratdev/indratdev.svg" />
 </p>
+
+
+
+  
+  [![Indratdev GitHub stats](https://github-readme-stats.vercel.app/api?username=indratdev)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indratdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+ 
 
 
 <!-- Your support, if you have it 
