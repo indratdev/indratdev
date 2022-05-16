@@ -27,21 +27,6 @@ You can use the website to generate badges: https://shields.io/
 - 📫 How to reach me: indrat.dev@gmail.com
 
 **Languages and Tools:** 
-
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
-[![Indratdev GitHub stats](https://github-readme-stats.vercel.app/api?username=indratdev)](https://github.com/anuraghazra/github-readme-stats)
-<p>
-  <a href="">
-    <img width="55%" align="right" alt="Indratdev's github stats" src="https://github-readme-stats.vercel.app/api?username=indratdev&show_icons=true&hide_border=true" />
-  </a>
- <a href="">
-  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
-  <img width="55%" align="right" alt="Indratdev's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
-          </a>
-
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
@@ -59,6 +44,22 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
   <br />
   
+  <!-- Your github readme stats
+You can use this api: https://github.com/anuraghazra/github-readme-stats
+-->
+
+<!--
+<p>
+  <a href="">
+    <img width="55%" align="right" alt="Indratdev's github stats" src="https://github-readme-stats.vercel.app/api?username=indratdev&show_icons=true&hide_border=true" />
+  </a>
+ <a href="">
+  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+  
+  [![Indratdev GitHub stats](https://github-readme-stats.vercel.app/api?username=indratdev)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indratdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <!--   <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
