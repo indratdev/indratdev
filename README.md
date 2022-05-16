@@ -70,9 +70,10 @@ Both apis are in trouble due to the number of requests, if you know any other to
 
 
 
-  
+  <p align="center">
   [![Indratdev GitHub stats](https://github-readme-stats.vercel.app/api?username=indratdev)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indratdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ </p>
   
  
 
