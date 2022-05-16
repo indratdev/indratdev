@@ -42,6 +42,9 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+  
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
   <br />
   
   <!-- Your github readme stats
@@ -70,15 +73,9 @@ Both apis are in trouble due to the number of requests, if you know any other to
 
 
 
-  <p align="center">
- 
- <img alt="toplangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indratdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
- <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=indratdev" />
-
- 
-
-  <!-- [![Indratdev GitHub stats](https://github-readme-stats.vercel.app/api?username=indratdev)](https://github.com/anuraghazra/github-readme-stats) -->
-  <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indratdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+ <p align="center">
+   <img alt="toplangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indratdev&layout=compact)]  (https://github.com/anuraghazra/github-readme-stats" />
+   <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=indratdev" />
  </p>
   
  
