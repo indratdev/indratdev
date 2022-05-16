@@ -73,7 +73,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
   <p align="center">
  
  <img alt="toplangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indratdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
- <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=indratdev)" />
+ <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=indratdev" />
 
  
 
