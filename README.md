@@ -31,6 +31,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
+[![Indratdev GitHub stats](https://github-readme-stats.vercel.app/api?username=indratdev)](https://github.com/anuraghazra/github-readme-stats)
 <p>
   <a href="">
     <img width="55%" align="right" alt="Indratdev's github stats" src="https://github-readme-stats.vercel.app/api?username=indratdev&show_icons=true&hide_border=true" />
