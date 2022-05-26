@@ -20,9 +20,8 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
  <br />
 
-- 👨🏽‍💻 I’m currently working on Ciputra Development Tbk
+- 👨🏽‍💻 I’m currently working on <a href="">Ciputra Development Tbk </a>
 - 🌱 I’m currently learning Dart and Flutter;
-- 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have a degree in system information;
 - 📫 How to reach me: indrat.dev@gmail.com
 
