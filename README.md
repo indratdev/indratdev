@@ -24,6 +24,7 @@ You can use the website to generate badges: https://shields.io/
 - 🌱 I’m currently learning Dart and Flutter;
 - ⚡️ Fun-Fact: I have a degree in system information;
 - 📫 How to reach me: indrat.dev@gmail.com
+-    Portofolio : https://indratdev.wixsite.com/indratdev
 
 **Languages and Tools:** 
   <!-- Your languages and tools. Be careful with the alignment. 
